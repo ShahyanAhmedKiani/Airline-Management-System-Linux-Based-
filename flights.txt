@@ -1,0 +1,4 @@
+123 | Karachi | Lahore | 234 | 50
+PKR145 | Islamabad | Karachi | 5000rs | 50
+Pk123 | Islamabad | Karachi | 10000 | 50
+pk881 | Islamabad | Karachi | 5000 | 100
